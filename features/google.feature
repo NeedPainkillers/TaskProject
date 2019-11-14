@@ -1,3 +1,4 @@
+@test
 Feature: testing google
 
   Scenario: visit google and check

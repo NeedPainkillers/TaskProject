@@ -1,3 +1,4 @@
+@test
 Feature: showing off behave
 
   Scenario: run a simple test
