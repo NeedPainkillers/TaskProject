@@ -2,17 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4814932a-e349-4dba-ab44-de65cf3c035b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/features/state.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/todomvc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/behaveTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/behaveTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/todomvc_state_delete.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/delete.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/delete.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/environment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/google.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/google.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/input.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/input.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/setState.feature" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/sort.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/update.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/features/tutorial.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/tutorial.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/state.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/state.feature" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +58,7 @@
       <workItem from="1573627535718" duration="2387000" />
       <workItem from="1573729487505" duration="305000" />
       <workItem from="1573729805869" duration="9829000" />
+      <workItem from="1573898009332" duration="4728000" />
     </task>
     <servers />
   </component>
