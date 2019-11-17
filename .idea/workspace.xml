@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4814932a-e349-4dba-ab44-de65cf3c035b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/features/steps/todomvc_state_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/features/steps/todomvc_delete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fixtures.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/features/delete.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/delete.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/environment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/google.feature" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/features/state.feature" beforeDir="false" afterPath="$PROJECT_DIR$/features/state.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/selenium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/todomvc.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/todomvc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/todomvc_state_delete.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/steps/todomvc_state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/steps/tutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/tutorial.feature" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +68,7 @@
       <workItem from="1573729487505" duration="305000" />
       <workItem from="1573729805869" duration="9829000" />
       <workItem from="1573898009332" duration="4728000" />
+      <workItem from="1573979975936" duration="5969000" />
     </task>
     <servers />
   </component>

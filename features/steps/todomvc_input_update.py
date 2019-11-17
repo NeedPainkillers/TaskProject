@@ -1,8 +1,8 @@
 from behave import *
-from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from hamcrest import assert_that, equal_to
+
 
 @when('clicks on enter')
 def step_impl(context):

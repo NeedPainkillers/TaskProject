@@ -1,20 +1,16 @@
 from behave import *
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
-from hamcrest import assert_that, equal_to
 from selenium.webdriver.support import expected_conditions as EC
 
-# TODO: change background in state.feature to @fixture and before feature combo
-@given('the user have tasks to set states')
-def step_impl(context):
-    elements = context.browser.find_elements_by_xpath('//header/input')
-    input_elem = elements[0]
-    assert len(elements) > 0
-    for i in range(5):
-        input_elem.send_keys(context.text + str(i))
-        input_elem.send_keys(Keys.ENTER)
-    context.input_elem = input_elem
+
+#@given('the user have tasks to set states')
+#def step_impl(context):
+#    elements = context.browser.find_elements_by_xpath('//header/input')
+#    input_elem = elements[0]
+#    assert len(elements) > 0
+#    for i in range(5):
+#        input_elem.send_keys(context.text + str(i))
+#        input_elem.send_keys(Keys.ENTER)
+#    context.input_elem = input_elem
 
 
 @given('the user has selected active task to set state')

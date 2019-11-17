@@ -1,12 +1,7 @@
-@todomvc @state
+@todomvc @state @fixture.generate.input
 Feature: The user can set state to task
 
-  Background: task should be in todos list
-    Given the user have tasks to set states
-      """
-      this task would change its states
-      """
-@wip
+
   Scenario: the user can set state to completed
     Given the user has selected active task to set state
         """
